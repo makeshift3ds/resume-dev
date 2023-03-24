@@ -1,3 +1,6 @@
 [submodule "ite-infrastructure"]
 	path = ite-infrastructure
 	url = git@github.com:makeshift3ds/ite-infrastructure.git
+[submodule "resume-frontend"]
+	path = resume-frontend
+	url = git@github.com:makeshift3ds/resume-frontend.git
