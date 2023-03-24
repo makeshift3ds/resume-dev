@@ -1,0 +1,3 @@
+[submodule "ite-infrastructure"]
+	path = ite-infrastructure
+	url = git@github.com:makeshift3ds/ite-infrastructure.git
